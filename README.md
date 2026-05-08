@@ -55,7 +55,7 @@ Random Forest is an ensemble learning algorithm that combines multiple decision 
 - Works efficiently on numerical datasets
 
 
-# 🧹 Data Preprocessing
+#  Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -108,7 +108,7 @@ The model performance was evaluated using:
 
 
 
-# 📌 Project Workflow
+#  Project Workflow
 
 1. Import Libraries  
 2. Load Dataset  
@@ -157,41 +157,40 @@ scikit-learn
 
 ---
 
-# ▶️ How to Run the Project
+#  How to Run the Project
 
-## 1️⃣ Clone Repository
+## 1️ Clone Repository
 
 ```bash
 git clone <https://github.com/prathibha81/OIBSIP_datascience_taskno5.git>
 ```
 
-## 2️⃣ Install Dependencies
+## 2️ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## 3️⃣ Run Notebook
+## 3️ Run Notebook
 
 Open Jupyter Notebook and execute all cells.
 
 ---
 
-# 📌 Future Improvements
+#  Future Improvements
 
 - Deploy model using Flask or Streamlit
 - Use XGBoost for better accuracy
 - Add real-time prediction interface
 - Hyperparameter tuning
 
----
 
-# 🧠 Conclusion
+# Conclusion
 
 This project successfully demonstrates how Machine Learning can be used to predict sales based on advertising expenditure. The Random Forest model achieved strong predictive performance and provided valuable insights into the impact of advertising channels on sales.
 
----
 
-# 👩‍💻 Author
+
+#  Author
 
 Prathibha U
