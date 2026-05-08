@@ -33,7 +33,7 @@ The objective of this project is to build a Machine Learning model that predicts
 | Sales | Product sales value |
 
 
-# ⚙️ Technologies Used
+# Technologies Used
 
 - Python
 - Pandas
