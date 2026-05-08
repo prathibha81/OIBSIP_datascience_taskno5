@@ -72,7 +72,6 @@ Visualization techniques were used to understand relationships between variables
 - Correlation heatmap
 - Feature importance analysis
 
----
 
 #  Model Training
 
@@ -142,7 +141,7 @@ Predicted Sales = 11.872
 - Advertisement Performance Analysis
 - Revenue Growth Strategy
 
----
+
 
 #  Requirements
 
@@ -155,7 +154,7 @@ matplotlib
 scikit-learn
 ```
 
----
+
 
 #  How to Run the Project
 
@@ -175,7 +174,7 @@ pip install -r requirements.txt
 
 Open Jupyter Notebook and execute all cells.
 
----
+
 
 #  Future Improvements
 
